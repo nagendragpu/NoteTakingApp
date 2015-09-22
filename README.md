@@ -7,6 +7,6 @@ Add notes
 update note 
 delete note
 
-In future i ll add dropbox implementation if u any suggestion pull request are always welcome!
+In future i ll add dropbox implementation if u hv any suggestion pull request are always welcome!
 
 Any Question/Queries send email to nagendragpu@gmail.com
